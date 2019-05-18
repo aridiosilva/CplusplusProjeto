@@ -17,6 +17,10 @@ The home of Standard C++ on the web — news, status and discussion about the C+
 - [*C++14 Overview*](https://isocpp.org/wiki/faq/cpp14)
 - [*C++ FAQ*](https://isocpp.org/wiki/faq)
 
+![Machine Learning Map*](https://raw.githubusercontent.com/aridiosilva/My-TensorFlow-tutorials/master/machine-learning-map.png)
+
+            source (https://isocpp.org/files/img/wg21-timeline-2019-04.png)
+
 ## A Quick Reference of C++ Language Reference
 
 - [*Quick C++14 Language Reference*](https://github.com/mortennobel/cpp-cheatsheet)
