@@ -14,4 +14,6 @@ The home of Standard C++ on the web — news, status and discussion about the C+
 
 - [*ISOCPP ORG*](https://isocpp.org/)
 
+## A Quick Reference of C++ Language Reference
 
+- [*Quick C++14 Language Reference*](https://github.com/mortennobel/cpp-cheatsheet)
