@@ -25,4 +25,4 @@ The home of Standard C++ on the web — news, status and discussion about the C+
 
 - [*Quick C++14 Language Reference*](https://github.com/mortennobel/cpp-cheatsheet)
 - [*Scott Meyers’ C++11 Materials: The Best Available Overview of C++11*](https://github.com/vpreethamkashyap/Library/blob/master/Scott%20Meyers-Overview%20of%20the%20New%20C%2B%2B%20(C%2B%2B%200x)%20(2011).pdf)
-- [*C++ Reference for Versions C++98, C++03, C++11, C++14, C++17, C++20*)(https://en.cppreference.com/w/)
+- [*C++ Reference for Versions C++98, C++03, C++11, C++14, C++17, C++20*](https://en.cppreference.com/w/)
