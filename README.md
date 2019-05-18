@@ -9,8 +9,8 @@ A cheatsheet of modern C++ language and library features - a comparative between
 - [*C++14 New language and library features*](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP14.md)
 - [*C++17 New language and library features*](https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP17.md)
 
-## The Standard of C++ Language Homepage ()
-The home of Standard C++ on the web — news, status and discussion about the C++ standard on all compilers and platforms
+## The Standard of C++ Language Homepage 
+The home of Standard C++ on the web — news, status and discussion about the C++ standard on all compilers and platforms. C++ is a popular and widely used mid-level language. It was designed as an extension of the C language.
 
 - [*ISOCPP ORG*](https://isocpp.org/)
 
